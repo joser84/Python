@@ -6,8 +6,8 @@
 #cars = np.loadtxt('SURVEY-2020.csv',dtype=np.dtype,delimiter =';')
 
 
-with open('SURVEY-2020.csv','r') as rf:
-        with open('cars2.txt','w') as wf:
+with open('.\FlatFile\cars.csv','r') as rf:
+        with open('.\FlatFile\cars2.txt','w') as wf:
             for line in rf:
                 wf.write(line)
 

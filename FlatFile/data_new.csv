@@ -1,0 +1,408 @@
+Car,MPG,new_column
+STRING,DOUBLE,2020
+Chevrolet Chevelle Malibu,18.0,2020
+Buick Skylark 320,15.0,2020
+Plymouth Satellite,18.0,2020
+AMC Rebel SST,16.0,2020
+Ford Torino,17.0,2020
+Ford Galaxie 500,15.0,2020
+Chevrolet Impala,14.0,2020
+Plymouth Fury iii,14.0,2020
+Pontiac Catalina,14.0,2020
+AMC Ambassador DPL,15.0,2020
+Citroen DS-21 Pallas,0,2020
+Chevrolet Chevelle Concours (sw),0,2020
+Ford Torino (sw),0,2020
+Plymouth Satellite (sw),0,2020
+AMC Rebel SST (sw),0,2020
+Dodge Challenger SE,15.0,2020
+Plymouth 'Cuda 340,14.0,2020
+Ford Mustang Boss 302,0,2020
+Chevrolet Monte Carlo,15.0,2020
+Buick Estate Wagon (sw),14.0,2020
+Toyota Corolla Mark ii,24.0,2020
+Plymouth Duster,22.0,2020
+AMC Hornet,18.0,2020
+Ford Maverick,21.0,2020
+Datsun PL510,27.0,2020
+Volkswagen 1131 Deluxe Sedan,26.0,2020
+Peugeot 504,25.0,2020
+Audi 100 LS,24.0,2020
+Saab 99e,25.0,2020
+BMW 2002,26.0,2020
+AMC Gremlin,21.0,2020
+Ford F250,10.0,2020
+Chevy C20,10.0,2020
+Dodge D200,11.0,2020
+Hi 1200D,9.0,2020
+Datsun PL510,27.0,2020
+Chevrolet Vega 2300,28.0,2020
+Toyota Corolla,25.0,2020
+Ford Pinto,25.0,2020
+Volkswagen Super Beetle 117,0,2020
+AMC Gremlin,19.0,2020
+Plymouth Satellite Custom,16.0,2020
+Chevrolet Chevelle Malibu,17.0,2020
+Ford Torino 500,19.0,2020
+AMC Matador,18.0,2020
+Chevrolet Impala,14.0,2020
+Pontiac Catalina Brougham,14.0,2020
+Ford Galaxie 500,14.0,2020
+Plymouth Fury iii,14.0,2020
+Dodge Monaco (sw),12.0,2020
+Ford Country Squire (sw),13.0,2020
+Pontiac Safari (sw),13.0,2020
+AMC Hornet Sportabout (sw),18.0,2020
+Chevrolet Vega (sw),22.0,2020
+Pontiac Firebird,19.0,2020
+Ford Mustang,18.0,2020
+Mercury Capri 2000,23.0,2020
+Opel 1900,28.0,2020
+Peugeot 304,30.0,2020
+Fiat 124B,30.0,2020
+Toyota Corolla 1200,31.0,2020
+Datsun 1200,35.0,2020
+Volkswagen Model 111,27.0,2020
+Plymouth Cricket,26.0,2020
+Toyota Corolla Hardtop,24.0,2020
+Dodge Colt Hardtop,25.0,2020
+Volkswagen Type 3,23.0,2020
+Chevrolet Vega,20.0,2020
+Ford Pinto Runabout,21.0,2020
+Chevrolet Impala,13.0,2020
+Pontiac Catalina,14.0,2020
+Plymouth Fury III,15.0,2020
+Ford Galaxie 500,14.0,2020
+AMC Ambassador SST,17.0,2020
+Mercury Marquis,11.0,2020
+Buick LeSabre Custom,13.0,2020
+Oldsmobile Delta 88 Royale,12.0,2020
+Chrysler Newport Royal,13.0,2020
+Mazda RX2 Coupe,19.0,2020
+AMC Matador (sw),15.0,2020
+Chevrolet Chevelle Concours (sw),13.0,2020
+Ford Gran Torino (sw),13.0,2020
+Plymouth Satellite Custom (sw),14.0,2020
+Volvo 145e (sw),18.0,2020
+Volkswagen 411 (sw),22.0,2020
+Peugeot 504 (sw),21.0,2020
+Renault 12 (sw),26.0,2020
+Ford Pinto (sw),22.0,2020
+Datsun 510 (sw),28.0,2020
+Toyota Corolla Mark II (sw),23.0,2020
+Dodge Colt (sw),28.0,2020
+Toyota Corolla 1600 (sw),27.0,2020
+Buick Century 350,13.0,2020
+AMC Matador,14.0,2020
+Chevrolet Malibu,13.0,2020
+Ford Gran Torino,14.0,2020
+Dodge Coronet Custom,15.0,2020
+Mercury Marquis Brougham,12.0,2020
+Chevrolet Caprice Classic,13.0,2020
+Ford LTD,13.0,2020
+Plymouth Fury Gran Sedan,14.0,2020
+Chrysler New Yorker Brougham,13.0,2020
+Buick Electra 225 Custom,12.0,2020
+AMC Ambassador Brougham,13.0,2020
+Plymouth Valiant,18.0,2020
+Chevrolet Nova Custom,16.0,2020
+AMC Hornet,18.0,2020
+Ford Maverick,18.0,2020
+Plymouth Duster,23.0,2020
+Volkswagen Super Beetle,26.0,2020
+Chevrolet Impala,11.0,2020
+Ford Country,12.0,2020
+Plymouth Custom Suburb,13.0,2020
+Oldsmobile Vista Cruiser,12.0,2020
+AMC Gremlin,18.0,2020
+Toyota Camry,20.0,2020
+Chevrolet Vega,21.0,2020
+Datsun 610,22.0,2020
+Mazda RX3,18.0,2020
+Ford Pinto,19.0,2020
+Mercury Capri v6,21.0,2020
+Fiat 124 Sport Coupe,26.0,2020
+Chevrolet Monte Carlo S,15.0,2020
+Pontiac Grand Prix,16.0,2020
+Fiat 128,29.0,2020
+Opel Manta,24.0,2020
+Audi 100LS,20.0,2020
+Volvo 144ea,19.0,2020
+Dodge Dart Custom,15.0,2020
+Saab 99le,24.0,2020
+Toyota Mark II,20.0,2020
+Oldsmobile Omega,11.0,2020
+Plymouth Duster,20.0,2020
+Ford Maverick,21.0,2020
+AMC Hornet,19.0,2020
+Chevrolet Nova,15.0,2020
+Datsun B210,31.0,2020
+Ford Pinto,26.0,2020
+Toyota Corolla 1200,32.0,2020
+Chevrolet Vega,25.0,2020
+Chevrolet Chevelle Malibu Classic,16.0,2020
+AMC Matador,16.0,2020
+Plymouth Satellite Sebring,18.0,2020
+Ford Gran Torino,16.0,2020
+Buick Century Luxus (sw),13.0,2020
+Dodge Coronet Custom (sw),14.0,2020
+Ford Gran Torino (sw),14.0,2020
+AMC Matador (sw),14.0,2020
+Audi Fox,29.0,2020
+Volkswagen Dasher,26.0,2020
+Opel Manta,26.0,2020
+Toyota Corolla,31.0,2020
+Datsun 710,32.0,2020
+Dodge Colt,28.0,2020
+Fiat 128,24.0,2020
+Fiat 124 TC,26.0,2020
+Honda Civic,24.0,2020
+Subaru,26.0,2020
+Fiat x1.9,31.0,2020
+Plymouth Valiant Custom,19.0,2020
+Chevrolet Nova,18.0,2020
+Mercury Monarch,15.0,2020
+Ford Maverick,15.0,2020
+Pontiac Catalina,16.0,2020
+Chevrolet Bel Air,15.0,2020
+Plymouth Grand Fury,16.0,2020
+Ford LTD,14.0,2020
+Buick Century,17.0,2020
+Chevrolete Chevelle Malibu,16.0,2020
+AMC Matador,15.0,2020
+Plymouth Fury,18.0,2020
+Buick Skyhawk,21.0,2020
+Chevrolet Monza 2+2,20.0,2020
+Ford Mustang II,13.0,2020
+Toyota Corolla,29.0,2020
+Ford Pinto,23.0,2020
+AMC Gremlin,20.0,2020
+Pontiac Astro,23.0,2020
+Toyota Corolla,24.0,2020
+Volkswagen Dasher,25.0,2020
+Datsun 710,24.0,2020
+Ford Pinto,18.0,2020
+Volkswagen Rabbit,29.0,2020
+AMC Pacer,19.0,2020
+Audi 100LS,23.0,2020
+Peugeot 504,23.0,2020
+Volvo 244DL,22.0,2020
+Saab 99LE,25.0,2020
+Honda Civic CVCC,33.0,2020
+Fiat 131,28.0,2020
+Opel 1900,25.0,2020
+Capri ii,25.0,2020
+Dodge Colt,26.0,2020
+Renault 12tl,27.0,2020
+Chevrolet Chevelle Malibu Classic,17.5,2020
+Dodge Coronet Brougham,16.0,2020
+AMC Matador,15.5,2020
+Ford Gran Torino,14.5,2020
+Plymouth Valiant,22.0,2020
+Chevrolet Nova,22.0,2020
+Ford Maverick,24.0,2020
+AMC Hornet,22.5,2020
+Chevrolet Chevette,29.0,2020
+Chevrolet Woody,24.5,2020
+Volkswagen Rabbit,29.0,2020
+Honda Civic,33.0,2020
+Dodge Aspen SE,20.0,2020
+Ford Grenada ghia,18.0,2020
+Pontiac Ventura SJ,18.5,2020
+AMC Pacer d/l,17.5,2020
+Volkswagen Rabbit,29.5,2020
+Datsun B-210,32.0,2020
+Toyota Corolla,28.0,2020
+Ford Pinto,26.5,2020
+Volvo 245,20.0,2020
+Plymouth Volare Premier v8,13.0,2020
+Peugeot 504,19.0,2020
+Toyota Mark II,19.0,2020
+Mercedes-Benz 280s,16.5,2020
+Cadillac Seville,16.5,2020
+Chevrolet C10,13.0,2020
+Ford F108,13.0,2020
+Dodge D100,13.0,2020
+Honda Accord CVCC,31.5,2020
+Buick Opel Isuzu Deluxe,30.0,2020
+Renault 5 GTL,36.0,2020
+Plymouth Arrow GS,25.5,2020
+Datsun F-10 Hatchback,33.5,2020
+Chevrolet Caprice Classic,17.5,2020
+Oldsmobile Cutlass Supreme,17.0,2020
+Dodge Monaco Brougham,15.5,2020
+Mercury Cougar Brougham,15.0,2020
+Chevrolet Concours,17.5,2020
+Buick Skylark,20.5,2020
+Plymouth Volare Custom,19.0,2020
+Ford Grenada,18.5,2020
+Pontiac Grand Prix LJ,16.0,2020
+Chevrolet Monte Carlo Landau,15.5,2020
+Chrysler Cordoba,15.5,2020
+Ford Thunderbird,16.0,2020
+Volkswagen Rabbit Custom,29.0,2020
+Pontiac Sunbird Coupe,24.5,2020
+Toyota Corolla Liftback,26.0,2020
+Ford Mustang II 2+2,25.5,2020
+Chevrolet Chevette,30.5,2020
+Dodge Colt m/m,33.5,2020
+Subaru DL,30.0,2020
+Volkswagen Dasher,30.5,2020
+Datsun 810,22.0,2020
+BMW 320i,21.5,2020
+Mazda RX-4,21.5,2020
+Volkswagen Rabbit Custom Diesel,43.1,2020
+Ford Fiesta,36.1,2020
+Mazda GLC Deluxe,32.8,2020
+Datsun B210 GX,39.4,2020
+Honda Civic CVCC,36.1,2020
+Oldsmobile Cutlass Salon Brougham,19.9,2020
+Dodge Diplomat,19.4,2020
+Mercury Monarch ghia,20.2,2020
+Pontiac Phoenix LJ,19.2,2020
+Chevrolet Malibu,20.5,2020
+Ford Fairmont (auto),20.2,2020
+Ford Fairmont (man),25.1,2020
+Plymouth Volare,20.5,2020
+AMC Concord,19.4,2020
+Buick Century Special,20.6,2020
+Mercury Zephyr,20.8,2020
+Dodge Aspen,18.6,2020
+AMC Concord d/l,18.1,2020
+Chevrolet Monte Carlo Landau,19.2,2020
+Buick Regal Sport Coupe (turbo),17.7,2020
+Ford Futura,18.1,2020
+Dodge Magnum XE,17.5,2020
+Chevrolet Chevette,30.0,2020
+Toyota Corolla,27.5,2020
+Datsun 510,27.2,2020
+Dodge Omni,30.9,2020
+Toyota Celica GT Liftback,21.1,2020
+Plymouth Sapporo,23.2,2020
+Oldsmobile Starfire SX,23.8,2020
+Datsun 200-SX,23.9,2020
+Audi 5000,20.3,2020
+Volvo 264gl,17.0,2020
+Saab 99gle,21.6,2020
+Peugeot 604sl,16.2,2020
+Volkswagen Scirocco,31.5,2020
+Honda Accord LX,29.5,2020
+Pontiac Lemans V6,21.5,2020
+Mercury Zephyr 6,19.8,2020
+Ford Fairmont 4,22.3,2020
+AMC Concord DL 6,20.2,2020
+Dodge Aspen 6,20.6,2020
+Chevrolet Caprice Classic,17.0,2020
+Ford LTD Landau,17.6,2020
+Mercury Grand Marquis,16.5,2020
+Dodge St. Regis,18.2,2020
+Buick Estate Wagon (sw),16.9,2020
+Ford Country Squire (sw),15.5,2020
+Chevrolet Malibu Classic (sw),19.2,2020
+Chrysler Lebaron Town @ Country (sw),18.5,2020
+Volkswagen Rabbit Custom,31.9,2020
+Mazda GLC Deluxe,34.1,2020
+Dodge Colt Hatchback Custom,35.7,2020
+AMC Spirit DL,27.4,2020
+Mercedes Benz 300d,25.4,2020
+Cadillac Eldorado,23.0,2020
+Peugeot 504,27.2,2020
+Oldsmobile Cutlass Salon Brougham,23.9,2020
+Plymouth Horizon,34.2,2020
+Plymouth Horizon TC3,34.5,2020
+Datsun 210,31.8,2020
+Fiat Strada Custom,37.3,2020
+Buick Skylark Limited,28.4,2020
+Chevrolet Citation,28.8,2020
+Oldsmobile Omega Brougham,26.8,2020
+Pontiac Phoenix,33.5,2020
+Volkswagen Rabbit,41.5,2020
+Toyota Corolla Tercel,38.1,2020
+Chevrolet Chevette,32.1,2020
+Datsun 310,37.2,2020
+Chevrolet Citation,28.0,2020
+Ford Fairmont,26.4,2020
+AMC Concord,24.3,2020
+Dodge Aspen,19.1,2020
+Audi 4000,34.3,2020
+Toyota Corolla Liftback,29.8,2020
+Mazda 626,31.3,2020
+Datsun 510 Hatchback,37.0,2020
+Toyota Corolla,32.2,2020
+Mazda GLC,46.6,2020
+Dodge Colt,27.9,2020
+Datsun 210,40.8,2020
+Volkswagen Rabbit C (Diesel),44.3,2020
+Volkswagen Dasher (diesel),43.4,2020
+Audi 5000s (diesel),36.4,2020
+Mercedes-Benz 240d,30.0,2020
+Honda Civic 1500 gl,44.6,2020
+Renault Lecar Deluxe,40.9,2020
+Subaru DL,33.8,2020
+Volkswagen Rabbit,29.8,2020
+Datsun 280-ZX,32.7,2020
+Mazda RX-7 GS,23.7,2020
+Triumph TR7 Coupe,35.0,2020
+Ford Mustang Cobra,23.6,2020
+Honda Accord,32.4,2020
+Plymouth Reliant,27.2,2020
+Buick Skylark,26.6,2020
+Dodge Aries Wagon (sw),25.8,2020
+Chevrolet Citation,23.5,2020
+Plymouth Reliant,30.0,2020
+Toyota Starlet,39.1,2020
+Plymouth Champ,39.0,2020
+Honda Civic 1300,35.1,2020
+Subaru,32.3,2020
+Datsun 210 MPG,37.0,2020
+Toyota Tercel,37.7,2020
+Mazda GLC 4,34.1,2020
+Plymouth Horizon 4,34.7,2020
+Ford Escort 4W,34.4,2020
+Ford Escort 2H,29.9,2020
+Volkswagen Jetta,33.0,2020
+Renault 18i,34.5,2020
+Honda Prelude,33.7,2020
+Toyota Corolla,32.4,2020
+Datsun 200SX,32.9,2020
+Mazda 626,31.6,2020
+Peugeot 505s Turbo Diesel,28.1,2020
+Saab 900s,0,2020
+Volvo Diesel,30.7,2020
+Toyota Cressida,25.4,2020
+Datsun 810 Maxima,24.2,2020
+Buick Century,22.4,2020
+Oldsmobile Cutlass LS,26.6,2020
+Ford Grenada gl,20.2,2020
+Chrysler Lebaron Salon,17.6,2020
+Chevrolet Cavalier,28.0,2020
+Chevrolet Cavalier Wagon,27.0,2020
+Chevrolet Cavalier 2-door,34.0,2020
+Pontiac J2000 SE Hatchback,31.0,2020
+Dodge Aries SE,29.0,2020
+Pontiac Phoenix,27.0,2020
+Ford Fairmont Futura,24.0,2020
+AMC Concord DL,23.0,2020
+Volkswagen Rabbit l,36.0,2020
+Mazda GLC Custom l,37.0,2020
+Mazda GLC Custom,31.0,2020
+Plymouth Horizon Miser,38.0,2020
+Mercury Lynx l,36.0,2020
+Nissan Stanza XE,36.0,2020
+Honda Accord,36.0,2020
+Toyota Corolla,34.0,2020
+Honda Civic,38.0,2020
+Honda Civic (auto),32.0,2020
+Datsun 310 GX,38.0,2020
+Buick Century Limited,25.0,2020
+Oldsmobile Cutlass Ciera (diesel),38.0,2020
+Chrysler Lebaron Medallion,26.0,2020
+Ford Grenada l,22.0,2020
+Toyota Celica GT,32.0,2020
+Dodge Charger 2.2,36.0,2020
+Chevrolet Camaro,27.0,2020
+Ford Mustang GL,27.0,2020
+Volkswagen Pickup,44.0,2020
+Dodge Rampage,32.0,2020
+Ford Ranger,28.0,2020
+Chevy S-10,31.0,2020
