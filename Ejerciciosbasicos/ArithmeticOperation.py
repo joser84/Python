@@ -14,3 +14,20 @@ print(dataframe3)
 
 dataframe4=serie1/serie2
 print(dataframe4)
+
+
+serie=pd.Series(list(range(1,11)))
+serie1=pd.Series(list(range(10,0, -1)))
+
+
+sum1=serie.add(serie1)
+print(sum1)
+
+resta=serie.subtract(serie1)
+print(resta)
+
+divi=serie.divide(serie1)
+print(divi)
+
+multi=serie.multiply(serie1)
+print(multi)
